@@ -10,8 +10,13 @@ Lessons List
 2- Understanding and Using Delegates in C# Tutorial
 
 Examples List:
+
 ParallelLoops
+
 DelegatesBasics
+
 DelegatesCallback
+
 DelegatesMulticast01
+
 DelegatesMulticast02
